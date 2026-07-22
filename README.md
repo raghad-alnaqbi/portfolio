@@ -12,13 +12,13 @@ I am a Cyber Security and Forensics student passionate about cybersecurity, netw
 Academic project focused on analyzing the architecture of Noon’s Order Management System, creating workflow and architecture diagrams, and proposing system improvements.
 
 Repository:
-- [noon-order-management-system] (https://github.com/raghad-alnaqbi/noon-order-management-system)
+- [noon-order-management-system](https://github.com/raghad-alnaqbi/noon-order-management-system)
 
 ### Smart Ergonomic Office Chair System
 Academic project focused on planning and managing the development of a smart ergonomic office chair using Agile methodology and Microsoft Project.
 
 Repository:
-- smart-ergonomic-office-chair
+- [smart-ergonomic-office-chair](https://github.com/raghad-alnaqbi/smart-ergonomic-office-chair)
 
 ## Technical Skills
 
